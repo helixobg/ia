@@ -1,8 +1,8 @@
-# Project Bac Pro Ia générative pour le text
+# Projet Bac Pro IA générative pour le text
 
 ### Présentation
 
-Astra Ia est une ia où on peux discuter avec elle.
+Astra IA est une ia où on peut discuter avec elle.
 Elle a était créer pour un project pour une épreuve de mon bac pro
 Elle permet d'aider à faire des tp, elle cherche des documents sur le serveur du lycée et bien plus.
 
@@ -18,7 +18,7 @@ Rien n'est encore mis cela est normal
 - train.py
 - requirements.txt
 
-### Comment tester l'ia
+### Comment tester l'IA
 
 En tout premier télécharger les fichiers.
 
@@ -35,8 +35,8 @@ python train.py
 python app.py
 ```
 
-### Description du project
-Sa me fait un grand plaisir de savoir que j'ai pu réussir se project et que je puisse partager ceci.
+### Description du projet
+Cela me fait un grand plaisir de savoir que j'ai pu réussir ce project et que je puisse partager ceci.
 
 ### Auteur du projet
 
