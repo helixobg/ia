@@ -8,7 +8,7 @@ Elle permet d'aider à faire des tp, elle cherche des documents sur le serveur d
 
 ### Temporaire
 
-Rien n'est encore mis cela est normal
+Rien n'est encore mis cela est normal :)
 
 ### Liste des Fichiers
 
